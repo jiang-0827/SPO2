@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_light.h
 :* 摘        要：光强自动调节 + 手指脱落判决状态机
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：对应原型：SPO2DynamicPrj/RoughAdj.m（粗调）
 :*                     SPO2DynamicPrj/FineAdj.m（细调）

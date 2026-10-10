@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_alg.h
 :* 摘        要：血氧算法顶层聚合（对外的唯一入口）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：把 MATLAB 侧散落在 RealAnalyzeData.m / RealDraw 定时器里的调用顺序
 :*               固化成一个"每样本一步"的状态机：

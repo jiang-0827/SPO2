@@ -2,7 +2,7 @@
 :* 模 块 名 称：ProcHostCmd.c
 :* 摘        要：ProcHostCmd模块，上位机命令解析与分发
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：本文件由心电工程同名文件移植而来
 :* 注        意：命令处理函数一律"改状态/回ACK/打一行日志"，绝不做耗时操作，

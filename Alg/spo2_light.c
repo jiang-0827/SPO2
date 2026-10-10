@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_light.c
 :* 摘        要：光强自动调节 + 手指脱落判决状态机
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：每个函数与 MATLAB 的同名 .m 文件逐行对应；与原型的两处刻意差异已在下面
 :*               各自的注释里标出（都是为了 C 侧的安全/边界，不改变控制律）：

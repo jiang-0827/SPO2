@@ -2,7 +2,7 @@
 :* 模 块 名 称：Main.c
 :* 摘        要：本文件包含所有硬件初始化的函数和main函数
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：本文件由心电工程(Main.c)移植而来，任务框架(2ms/1s时间片)与心电完全一致：
 :*               2ms 时间片 = 一个"采集成对点 + 跑算法 + 上报"的节拍

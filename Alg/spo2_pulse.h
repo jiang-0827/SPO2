@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_pulse.h
 :* 摘        要：逐点流式脉率检测（峰定位 + 中位数RR → bpm + 6点中值滤波）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：对应原型：SPO2DynamicPrj/CalcPulseRate.m
 :*                     [~,index] = findpeaks(dataIn,'minpeakdistance',250,'minpeakheight',100);

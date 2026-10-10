@@ -2,7 +2,7 @@
 :* 模 块 名 称：Main.h
 :* 摘        要：主程序，任务调度、波形上传开关与血氧算法结果对外接口
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：本文件由心电工程同名文件移植而来，把"心电算法的对外接口"换成了血氧的
 :* 注        意：

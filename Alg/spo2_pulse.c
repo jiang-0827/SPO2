@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_pulse.c
 :* 摘        要：逐点流式脉率检测（峰定位 + 中位数RR → bpm + 6点中值滤波）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：算法说明与使用方式见 spo2_pulse.h 头注释；数值后端链路严格照搬
 :*               CalcPulseRate.m（median(RR) → 30000/medRR → 6 点中值 → 越界置无效）。

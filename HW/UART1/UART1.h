@@ -2,7 +2,7 @@
 * 模 块 名 称：UART1.h
 * 摘        要：UART1模块， USART1收发环形缓冲区与中断驱动发送
 * 当前版本：1.0.0
-* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 * 生成日期：2026年09月20日
 * 说        明：本文件由STM32F103版本移植而来
 * 注        意：天空星开发板的USB转串口接在USART1(PA9-TX/PA10-RX)的调试排针上，

@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_filter.c
 :* 摘        要：脉搏波滤波链逐点实现（扣直流 → 0.5Hz 高通 → [50Hz 陷波] → 20Hz 低通）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：每个函数与 MATLAB filter() 的 DF2T 实现逐行对应；运算顺序完全一致 ——
 :*               这是"逐样本对拍"能收敛到 1e-5 量级的前提。

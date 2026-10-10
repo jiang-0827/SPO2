@@ -2,7 +2,7 @@
 :* 模 块 名 称：SPO2FE.c
 :* 摘        要：血氧模拟前端驱动（光强 DAC + IR/RED 通道选通 + 一次采集成对点）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：本文件为血氧工程新增（心电工程没有对应模块，心电前端只有一路信号）
 :* 注        意：建立延时用 ARM/SysTick 模块的 DelayNus() 实现，属于"忙等"，

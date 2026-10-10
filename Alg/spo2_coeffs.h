@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_coeffs.h
 :* 摘        要：滤波系数与血氧查表常量（由 gen_spo2_coeffs.m 自动生成，勿手改！）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：生成来源：SPO2DynamicPrj/FilterPulseWave.m（butter(5, 20/(500/2))）
 :*                     + SPO2DynamicPrj/CalcSPO2.m（RR_TABLE）

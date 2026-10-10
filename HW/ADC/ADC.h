@@ -2,7 +2,7 @@
 :* 模 块 名 称：ADC.h
 :* 摘        要：ADC模块，血氧前端 SPO2_VSIG 的单通道软件触发采集 + 统计量
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：本文件由心电工程(HW/ADC/ADC.c)移植而来，"定时器触发→ADC→DMA→环形队列"
 :*               那条链路**被刻意去掉**了，原因见下面的"与心电工程的差异"

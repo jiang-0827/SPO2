@@ -2,7 +2,7 @@
 * 模 块 名 称：Timer.h
 * 摘        要：Timer模块，系统时间片标志(2ms/1s)产生
 * 当前版本：1.0.0
-* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 * 生成日期：2026年09月20日
 * 说        明：本文件由STM32F103版本移植而来
 * 注        意：F103工程用TIM2+TIM5产生时间片；F407移植时TIM2已被ADC采样触发占用

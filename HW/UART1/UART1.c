@@ -2,7 +2,7 @@
 * 模 块 名 称：UART1.c
 * 摘        要：UART1模块，USART1初始化、收发环形缓冲区、中断服务函数
 * 当前版本：1.0.0
-* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 * 生成日期：2026年09月20日
 * 说        明：本文件由STM32F103版本移植而来
 * 注        意：F4系列GPIO需要额外配置复用功能(GPIO_PinAFConfig)且GPIO时钟在AHB1总线

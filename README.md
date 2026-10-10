@@ -171,4 +171,14 @@ powershell -NoProfile -ExecutionPolicy Bypass -File tools\cc_check.ps1 -Link -Al
 
 - `docs/MIGRATION_NOTES.md` —— 移植与设计长文：MATLAB ↔ C 的逐行对应、系数是怎么算出来的（可复现）、T1~T7 上机测试步骤与判据、串口带宽核算、以及 2026-10-09 那轮实时性补强。开头有**时效声明**，列出 2026-10-10 精简后已与代码不符的章节，读的时候先看它。
 
-Copyright © 2018 - 2026 SZLY. All rights reserved.
+---
+
+## 9. 许可
+
+见根目录 [`LICENSE`](LICENSE)：**Copyright © 2018 - 2026 Jaziel.Jiang，保留所有权利（All rights reserved）**。
+本仓库公开，仅授予"阅读与学习"的事实性可访问性，**不构成**使用、修改、再发布或商用的任何授权；
+若需用于产品、实验申报或其他用途，请先取得 Jaziel.Jiang 的书面许可。
+
+> 本实现的 SpO2 / 脉率输出用于算法研究与实验验证，**不构成医疗诊断依据**，不能替代已注册的医疗器械与专业判断。
+
+Copyright © 2018 - 2026 Jaziel.Jiang. All rights reserved.

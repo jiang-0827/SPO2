@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_config.h
 :* 摘        要：血氧饱和度处理系统配置 —— 物理量与算法指标的唯一定义处
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：对应 MATLAB SPO2DynamicPrj/（SPO2.m + InitData.m 里的一堆 global 常量）。
 :*               工程准则：凡与"真实世界"耦合的数字（采样率/量程/指标/阈值/节流）只允许出现在

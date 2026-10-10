@@ -2,7 +2,7 @@
 :* 模 块 名 称：SPO2FE.h
 :* 摘        要：血氧模拟前端驱动（光强 DAC + IR/RED 通道选通 + 一次采集成对点）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：血氧板的 H4 只有 7 个引脚（见 SCH_Schematic1_2026-09-22），MCU 侧需要
 :*               "两个数字输出 + 一个模拟输出 + 一个模拟输入"共 4 根信号线，本模块把它们

@@ -2,7 +2,7 @@
 * 模 块 名 称：SysTick.h
 * 摘        要：SysTick模块，SysTick初始化以及毫秒/微秒级延时函数
 * 当前版本：1.0.0
-* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 * 生成日期：2026年09月20日
 * 说        明：本文件由STM32F103版本移植而来
 * 注        意：SysTick_Handler()定义在本模块中，移植时不要把启动文件/中断文件里的

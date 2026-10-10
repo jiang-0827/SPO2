@@ -2,7 +2,7 @@
 :* 模块名称：SendDataToHost.h
 :* 摘    要：SendDataToHost模块，把波形/光强/结果打包成10字节PCT帧发到上位机
 :* 当前版本：1.0.0
-:* 作    者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作    者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 完成日期：2026年09月24日
 :* 内    容：
 :* 注    意：本文件由心电工程同名文件移植而来，把"心电波形帧(5点×8bit)"换成了血氧的三种帧；

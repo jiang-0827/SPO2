@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_filter.h
 :* 摘        要：脉搏波滤波链逐点实现（扣直流 → 0.5Hz 高通 → [50Hz 陷波] → 20Hz 低通）
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：对应 MATLAB：SPO2DynamicPrj/FilterPulseWave.m
 :*                     Wc = gFiltFc/(Fs/2); [b,a] = butter(gFiltDegree, Wc);

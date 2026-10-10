@@ -2,7 +2,7 @@
 * 模块名称：PackUnpack.c
 * 摘    要：PackUnpack模块
 * 当前版本：1.0.0
-* 作    者：SZLY(COPYRIGHT 2018 - 2020 SZLY. All rights reserved.)
+* 作    者：Jaziel.Jiang(COPYRIGHT 2018 - 2020 Jaziel.Jiang. All rights reserved.)
 * 完成日期：2020年01月01日
 * 内    容：
 *           （1）数据包格式：模块ID+数据头+二级ID+数据1...数据6+校验和

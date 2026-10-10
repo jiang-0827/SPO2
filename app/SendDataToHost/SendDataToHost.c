@@ -2,7 +2,7 @@
 :* 模块名称：SendDataToHost.c
 :* 摘    要：SendDataToHost模块
 :* 当前版本：1.0.0
-:* 作    者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作    者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 完成日期：2026年09月24日
 :* 内    容：
 :* 注    意：本文件由心电工程同名文件移植而来。心电只有"波形帧"一种，血氧需要三种：

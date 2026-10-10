@@ -2,7 +2,7 @@
 * 模 块 名 称：NVIC.h
 * 摘        要：NVIC模块，中断优先级分组管理
 * 当前版本：1.0.0
-* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 * 生成日期：2026年09月20日
 * 说        明：本文件由STM32F103版本移植而来
 * 注        意：STM32F407的NVIC有4位优先级(共16级)，分组宏与F103一致，故本工程沿用

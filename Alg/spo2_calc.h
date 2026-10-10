@@ -2,7 +2,7 @@
 :* 模 块 名 称：spo2_calc.h
 :* 摘        要：屏幕窗统计 + R 值（比率法）+ 血氧饱和度查表
 :* 当前版本：1.0.0
-:* 作        者：SZLY(COPYRIGHT 2018 - 2026 SZLY. All rights reserved.)
+:* 作        者：Jaziel.Jiang(COPYRIGHT 2018 - 2026 Jaziel.Jiang. All rights reserved.)
 :* 生成日期：2026年09月24日
 :* 说        明：对应原型：SPO2DynamicPrj/RealAnalyzeData.m（收满一屏时的处理）
 :*                     + SPO2DynamicPrj/CalcSPO2.m
