@@ -1,0 +1,27 @@
+# Keil MDK build intermediates (regenerate by rebuild, never commit)
+project/MDK(V5)/Objects/
+project/MDK(V5)/Listings/
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.lnp
+*.map
+*.dep
+*.build_log.htm
+*.htm
+
+# User-specific IDE layout / debug config
+*.uvguix.*
+*.dbgconf
+EventRecorderStub.scvd
+
+# Scratch archive: source files moved out during the 2026-10-10 slimming pass.
+# Delete this whole folder once the new build has been flashed and verified.
+_archive_to_delete/
+
+# IDE / agent local data (never belongs in the repo)
+.qoder-credits/
+.vscode/
+*.swp

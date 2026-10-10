@@ -1,0 +1,22 @@
+# Line-ending policy for a Keil / Chinese-locale embedded project.
+# The .c/.h sources are GBK(CP936) + CRLF on purpose (Keil on a zh-CN machine).
+# Never let git normalize them: an EOL rewrite plus an encoding-losing editor is how
+# Chinese comments get destroyed. Binary-ish project files likewise stay byte-exact.
+*.c             -text
+*.h             -text
+*.s             -text
+*.uvprojx       -text
+*.uvoptx        -text
+*.dbgconf       -text
+*.scvd          -text
+*.axf           binary
+*.hex           -text
+*.map           -text
+*.lst           -text
+
+# Plain text that SHOULD be normalized to LF in the repository.
+*.md            text eol=lf
+*.gitattributes text eol=lf
+
+# Windows batch needs CRLF on disk.
+*.bat           text eol=crlf
