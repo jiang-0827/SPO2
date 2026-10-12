@@ -1,0 +1,28 @@
+# ---- Keil MDK 编译产物 ----
+project/MDK(V5)/Objects/
+project/MDK(V5)/Listings/
+project/MDK(V5)/DebugConfig/
+
+*.o
+*.crf
+*.d
+*.axf
+*.elf
+*.map
+*.lst
+*.lnp
+*.plg
+*.dep
+*.bak
+*.htm
+*.html
+*.out
+*.build_log.htm
+
+# ---- Keil 用户/调试器私有配置(换机器会变,不入库) ----
+*.uvguix.*
+*.uvgdbsettings
+*.scvd
+
+# ---- Qoder 工具临时产物 ----
+.qoder-credits/
